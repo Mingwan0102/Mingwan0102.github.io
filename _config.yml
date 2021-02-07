@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "mingwan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "망한 전과생의 개발 블로그."
+  location         : "Inha"
   email            :
   links:
     - label: "Email"
